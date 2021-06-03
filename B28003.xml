@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most excellent Majesty, and to the Right Honourable the Lords and others of His Majesties most honourable Privy-Councel</title>
+            <author>Percy, James, 1619-1690?</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28003</idno><idno type="EEBO-CITATION">64551546</idno>
+  <idno type="VID">207960</idno>
+  <idno type="EEBO-PROQUEST">2240862489</idno>
+  
+            <idno type="STC">Wing P1462cA</idno>
+            <idno type="OCLC">64551546</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207960)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most excellent Majesty, and to the Right Honourable the Lords and others of His Majesties most honourable Privy-Councel</title>
+                  <author>Percy, James, 1619-1690?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Percy, James, 1619-1690?</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petitions">
+            <pb facs="tcp:207960:1"/>
+            <head>To the Kings Most Excellent Majesty, And to the Right Honourable the Lords and others of His Majesties Most Honourable Privy-Councel.</head>
+            <p>The further Complaints of <hi>James Percy</hi> Sheweth, That the Petitioner hath taken out of the Clarks hand all the long and te<g ref="char:EOLhyphen"/>dious and Double Petitions; And now Pre<g ref="char:EOLhyphen"/>sents but one, really to lessen trouble; But hath Printed three Petitions as followeth, to setforth the New matter, and to make the Path plain to speedy Justice.</p>
+            <p>To Groan under the Heavy Burthen of Opression 12. years (is hard,) all that reads weigh it as if it were your own Case: And pray that God may preserve all your Fa<g ref="char:EOLhyphen"/>milies from the like trouble.</p>
+            <p>
+               <hi>25th.</hi> April 1682. <hi>Sent Mr.</hi> John Percy <hi>his Son to</hi> Wind<g ref="char:EOLhyphen"/>sor <hi>to present the first Petition to the Kings most Excellent Ma<g ref="char:EOLhyphen"/>jesty: The second Petition is to be presented to the Right Honour<g ref="char:EOLhyphen"/>able Councel Board, the next Councel day: The third Petition was presented the</hi> 21st. <hi>of</hi> April, 1682.</p>
+            <div type="petition">
+               <head>To the Kings most Excellent Majesty.</head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> James Percy,</head>
+               <opener>HUMBLY SHEWETH,</opener>
+               <p>THat Your Petitioner humbly beggs Your Majesty's Pardon, for his bold and rash speaking at Council-Board the 21. instant 1682. but that which induced him so to do was, to see that the Deputy Earl Marshal should call to the Council-Board; Sir <hi>Henry,</hi> St. <hi>George,</hi> and did not call Your Peti<g ref="char:EOLhyphen"/>tioner in also: who could have given as good an account of the <hi>Percies</hi> Pedi<g ref="char:EOLhyphen"/>gree up to Sir <hi>Ingleram Percy,</hi> as the <hi>Heralds</hi> Books makes down to his Great Grandfather Sir <hi>Inglerem Percy;</hi> Had the Depuy Earl Marshal called a Chap<g ref="char:EOLhyphen"/>ter, they should have found it so, for Sir <hi>William Dugdale</hi> to incline to <hi>Francis Percy</hi> defended from a younger Son, and neglected your Petitioner, who is truely descended from the elder Son: while mine Enemies endeavour to mis<g ref="char:EOLhyphen"/>inform Your Majesty, and Mr. <hi>Gee</hi> Reigns Deputy Earl of <hi>Northumberland,</hi> the Petitioner must Print to undeceive the World.</p>
+               <p>
+                  <hi>Therefore Your Petitioner most humbly and earnestly Prays Your most Excel<g ref="char:EOLhyphen"/>lent Majesty, will be graciously pleased to cause his Petition that shall be Presented to Your Sacred Majesty in Council to be read, and that a speedy Order may be had thereupon according to the Prayer,</hi>
+               </p>
+               <closer>
+                  <hi>And Your Petitioner as in Duty bound shall ever Pray,</hi>
+                  <signed> James Percy.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>To the Kings Most Excellent Majesty in Councel.</head>
+               <head type="sub">T<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e humble Petition of <hi>James Percy,</hi> Son of <hi>Henry Percy</hi> of <hi>Hor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on,</hi> Son of <hi>Henry Percy</hi> of <hi>Pavenham,</hi> Eldest Son of Sir <hi>Ingelram Percy,</hi> who was 3d. Son of <hi>Henry Percy</hi> 5th. Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land:</hi> Descended of that Line, that is clear from those Attain<g ref="char:EOLhyphen"/>ders and Conspiracies, in the days of King <hi>Henry</hi> the <hi>VIII.</hi> Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> the <hi>I.</hi> of ever Blessed Memory; By which descent he is the next surviving Heir-Male of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Body of <hi>Henry Percy</hi> 5th. Earl of <hi>Northumberland,</hi> and Co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n and next Heir-Male in the whole Blood to <hi>Jocelin Percy,</hi> late <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd 11th. Earl of <hi>Northumberland</hi> Deceased, <hi>&amp;c.</hi> And hath so poved his Pedegree at several Tryals.</head>
+               <opener>Humbly Sheweth,</opener>
+               <p>
+                  <hi>THat the</hi> 21st. <hi>of</hi> April 1682. <hi>The Deputy Earl-Marshal told Your Petitioner at the Councel Chamber, that he had called to the Councel Board Sir</hi> Henry <hi>St.</hi> George, <hi>and he declared, That they had satisfied the Petitioner with their Books and Records: Making out the</hi> Percy<hi>'s</hi> Pedegree, <hi>down to Sir</hi> Ingelram Percy.</p>
+               <p>
+                  <hi>That Your Petitioner acknowledged Sir</hi> Henry <hi>St.</hi> George <hi>gave a true ac<g ref="char:EOLhyphen"/>compt, but</hi> James Percy <hi>should have been called in also, who could have proved himself up, To be the Son of</hi> Henry Percy <hi>of</hi> Horton, <hi>Son of</hi> Henry Percy <hi>of</hi> Pavenham, <hi>Eldest Son of Sir</hi> Ingelram Percy, 3d. <hi>Son of</hi> Henry Per<g ref="char:EOLhyphen"/>cy, 5th. <hi>Earl of</hi> Northumberland: <hi>who was</hi> Great Great Grandfather, <hi>Sir</hi> Ingelram Great Grandfather, Henry Percy <hi>of</hi> Pavenham Grandfather, <hi>and</hi> Henry <hi>of</hi> Hornton Father <hi>of the Clayment</hi> James Percy, <hi>according to the a<g ref="char:EOLhyphen"/>bove Pedegree.</hi>
+               </p>
+               <p>
+                  <hi>That the Deputy Earl Marshal ought to have called a Chapter, and to have examined the Pedegree down-wards and up-wards, and acccor<g ref="char:EOLhyphen"/>ding to proof; so to have joyned and fixed the</hi> Pedegree <hi>together, and then made his report. Herein had the Earl-Marshal discharged his Office according to Justice.</hi>
+               </p>
+               <p>
+                  <hi>Therefore the Petitioner appeals to this Right Honourable Board, and most Humbly and Earnestly Prays for speedy Justice, for he is cre<g ref="char:EOLhyphen"/>dibly informed, That Sir <hi>William Dugdale</hi> hath Signed <hi>Francis Percy</hi>'s Pedegree, and neglected <hi>James Percy</hi>'s: Notwithstanding he apply'd himself first, to Sir <hi>William Dugdale King at Arms,</hi> with the <hi>Percy</hi>'s Pedegree, and told him, that it was done by Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Walkers</hi> directions, had he lived, he would have Signed and Confirmed the Pedegree, but the next morning it was finished he died: The Petitioner prays, that this Petition may be read, and that a short day may be set for a Hearing, and an Order to Summon his Witnesses, who in seven or eight days, will be brought together to appear again, (and notice given to the other side.) The not ob<g ref="char:EOLhyphen"/>teyning a Chapter, hath much Disheartned the Witnesses; Delays oft prejudice as much as if Justice was denyed. Ʋpon a f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir hearing, if the Petitioner doth not prove the above Pedegree, then Record him for an Impostor, and Punish him accordingly.</hi>
+               </p>
+               <closer>And Your Petitioner as in Duty bound shall ever Pray, <signed>James Percy</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <head>To His Royal Highness, Prince JAMES, Duke of <hi>York</hi> and <hi>Albany.</hi>
+               </head>
+               <head type="sub">
+                  <hi>The Humble Petition of</hi> James Percy.</head>
+               <opener>SHEWETH,</opener>
+               <p>THat his Printed Petition is prepared for the King's most Excellent Ma<g ref="char:EOLhyphen"/>jesty, and His Right Honourable Privy Council, to be before them, that they may see as well as hear when the Petitions are reading.</p>
+               <p>That the Petitioner ever was and is resolved by Gods assistance, to continue a faithful Loyal Subject, and shall instruct and incourage his Sons to train up their Children in the same Principles, so to continue to their lives end; For had the Petitioner as many lives as hairs on his Head, and ten times the Estate that did belong to the <hi>Percies;</hi> he would freely Sacrifice them all for the Glory of God: the Preservation of the King's Person, for the good of the Three Kingdoms; and for the propagating of Loyalty, Justice and Peace.</p>
+               <p>
+                  <hi>Therefore Your distressed Petitioner from the depth of his Soul, humbly and earnestly Prays and Beseeches Your Royal Highness to intercede, with the King's most Excellent Majesty, that his Petition at Council-Board may be Read, and that an Order may be had thereon, according to the Prayer.</hi>
+               </p>
+               <closer>
+                  <hi>And Your Petitioner as in Duty bound shall ever Pray,</hi> &amp;c. <signed>James Percy.</signed>
+               </closer>
+            </div>
+            <div type="text">
+               <p>HIS Royal Highness the Duke of <hi>York's</hi> answer, was, by his Secretary, That he did not concern himself with business in <hi>England,</hi> neither did he sit in Councel, nor was he to stay long in <hi>England;</hi> which the Petitioner took for a Gracious Answer, because there was no delay: Yet some Gentle<g ref="char:EOLhyphen"/>men present, Scoff'd and Laugh▪d alloud, whereat the Petitioner replyed, <hi>A true</hi> Percy <hi>is not affraid to Fight, nor ashamed to Claim his Right.</hi>
+               </p>
+               <p>And now some Men look another way when they meet Me, since my first Petition was presented to the Duke of <hi>York;</hi> therefore I have Printed this last Petition, that the Scoffers and Clouded Men shall see, that a <hi>True Heir Male,</hi> will not easily be Bounc'd or Byassed out of his <hi>Birth Right:</hi> Neither am I so Proud of the Blood of <hi>Emperours,</hi> and the <hi>Royal Blood of</hi> England <hi>Runing in m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Veins;</hi> But that above all, <hi>I value the Blood of a Crucified Christ,</hi> which my Faith consists upon; and the Blood of <hi>King Charles the first,</hi> hath confirmed my Principles, and God hath Mark'd me in the Womb with a <hi>Crescent,</hi> the very Badge of the Family of the <hi>Percies</hi> of <hi>Northumberland;</hi> All which truths Confirmed my belief, and hath Armed me with Courage, Resolution, and Patience, so as I can cordially pray for them all, and remain a faithful Loyal Subject.</p>
+               <closer>
+                  <signed>James Percy.</signed>
+               </closer>
+               <pb facs="tcp:207960:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
